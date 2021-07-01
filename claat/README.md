@@ -30,7 +30,7 @@ instructions below.
 
 To build the binary, run `make`.
 
-Testing is done with `make test` or `go test ./...` if preferred.
+Testing is done with `go test ./...`.
 
 Don't forget to run `make lint` or `golint ./...` before creating a new CL.
 
